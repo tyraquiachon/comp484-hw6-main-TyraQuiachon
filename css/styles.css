@@ -1,0 +1,75 @@
+/* Color Palette
+#30364F - Dark Navy
+#ACBAC4 - Grayish Blue
+#E1D9BC - Grayish Tan
+#F0F0DB - Off White
+*/
+
+/* Global styles 
+------------------------------------*/
+body {
+    background: #F0F0DB;
+    font-family: 'Courier Prime' , monospace;
+}
+
+h1, h2, h3 {
+    font-family: 'Special Elite', cursive;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+h3 {
+    font-weight: 700;
+}
+
+p {
+    font-weight: 400;
+}
+
+
+/* Header & Footer 
+------------------------------------*/
+header {
+    background: #30364F;
+    color: #F0F0DB;
+}
+
+footer {
+    background: #30364F;
+    color: #F0F0DB;
+}
+
+footer a {
+    color: #ACBAC4;
+}
+
+
+
+/* Work Experience
+------------------------------------*/
+.work-experience{
+    background: #F0F0DB;
+}
+
+
+
+/* Education
+------------------------------------*/
+.education {
+    background: #E1D9BC;
+}
+
+/* Proflie Pic
+------------------------------------*/
+.profile-img {
+    width: 300px;
+    border-radius: 50%;
+}
